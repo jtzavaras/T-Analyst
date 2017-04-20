@@ -1,0 +1,21 @@
+### Setting the scope
+The current reporting scope is displayed at the top of the page and is used when any report is generated. This scope consists of the **DATA** dropdown and a **LEVEL** in the active **HIERARCHY** as well as an optional **FILTER**. You can change this scope before or after you run the report.
+
+### Working with the report
+Once the report is generated you can perform an alphanumeric sort on any column by clicking on the column’s header. 
+When more columns are available that will display on the screen, a plus icon will appear in the left most column allowing you to expand a row to see all remaining data fields. You can also view the report in full page mode to scroll through all the contents of a report.
+
+### Viewing Full Page
+All reports, both summary and detail, can be viewed full page. Toggle full page view with the button located above the table.
+
+### Editing the report
+At any time, you can edit the underlying report template. Any changes will be immediately reflected in the report output. The edit button is located above the table.
+
+### Scheduling a report
+Reports can be scheduled for delivery via email to you and others that you designate on a recurring schedule. If reports are too large to be emailed, you can download them from the Orders tab within the product. 
+
+### Large Reports
+In some instances with large data sets, you may be prompted to order a report. If a report cannot be displayed in real-time, you will be automatically redirected to the Order Report page where you can place a one-time order for the report in the file format of your choice.
+
+### Removing a report
+You can remove reports that you do not find useful at any time. Be careful when deleting a predefined report as it cannot be restored once deleted.
