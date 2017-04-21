@@ -2,7 +2,7 @@
 The current reporting scope is displayed at the top of the page and is used when any report is generated. This scope consists of the **DATA** dropdown and a **LEVEL** in the active **HIERARCHY** as well as an optional **FILTER**. You can change this scope before or after you run the report.
 
 ### Working with the report
-Once the report is generated you can perform an alphanumeric sort on any column by clicking on the column’s header. 
+Once the report is generated you can perform an alphanumeric sort on any column by clicking on the columnâ€™s header. 
 When more columns are available that will display on the screen, a plus icon will appear in the left most column allowing you to expand a row to see all remaining data fields. You can also view the report in full page mode to scroll through all the contents of a report.
 
 ### Viewing Full Page
